@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://www.nachonacho.com/resources
 common:
+  - type: GitHubOrganization
+    url: https://github.com/nachonacho-inc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nachonacho
   - type: Website
     url: https://www.nachonacho.com
   - type: Documentation
