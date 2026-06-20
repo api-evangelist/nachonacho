@@ -3,7 +3,7 @@ name: NachoNacho
 description: >-
   NachoNacho is a SaaS procurement and subscription management marketplace helping businesses discover, buy, and manage software subscriptions.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - SaaS Procurement
   - Subscription Management
