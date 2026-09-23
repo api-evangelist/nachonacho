@@ -1,0 +1,31 @@
+# Front Door AI Index — nachonacho — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: nachonacho
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.nachonacho.com
+  final_host: nachonacho.com:443
+  ownership: own
+  owner: nachonacho
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 67
+  host_score: 67
+  density: 15.59
+  words: 4298
+  tiers:
+    agentic: 5
+    core: 62
+    model: 0
+  ambiguous: 15
+  top_terms:
+    AI: 62
+    automation: 6
+    intelligence: 5
+    chatbot: 3
+    agent: 2
+    predictive: 2
+    prompts: 2
