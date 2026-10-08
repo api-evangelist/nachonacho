@@ -47,6 +47,12 @@ apis:
       - type: Documentation
         url: https://www.nachonacho.com/resources
 common:
+  - type: Plans
+    url: plans/nachonacho-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/nachonacho-rate-limits.yml
+  - type: FinOps
+    url: finops/nachonacho-finops.yml
   - url: https://blog.nachonacho.com/feed/
     type: BlogRSS
   - type: DomainSecurity
